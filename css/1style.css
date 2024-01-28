@@ -1,0 +1,16 @@
+:root {
+    --background-color-dark: #2F303A;
+    --color-blue: #2196F3;
+}
+
+.efection-solutions  {
+    background-color: var(--background-color-dark);
+}
+
+.efection-solutions button {
+    background-color: var(--color-blue);
+}
+
+.footer {
+    background-color: var(--background-color-dark);
+}

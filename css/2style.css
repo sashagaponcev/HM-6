@@ -1,0 +1,8 @@
+:root {
+    --background-color-dark: #2F303A;
+    --color-blue: #2196F3;
+}
+
+.footer-portfolio {
+    background-color:  var(--background-color-dark);
+}
